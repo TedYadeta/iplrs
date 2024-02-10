@@ -1,4 +1,4 @@
-# iplrs
+# The Interlingual Programming Language Roundtable Scale
 An experimental guideline and scale for developing proficiency with a programming or scripting language. (WIP)
 
 # Table of Contents
