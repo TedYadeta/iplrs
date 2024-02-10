@@ -4,12 +4,16 @@ An experimental guideline and scale for developing proficiency with a programmin
 # Table of Contents
 
 I) - Definition
+---------------
 II) - Purpose
+-------------
 III) - Scale
+------------
 IV) - Examples
-  IV.a) Bash
-  IV.b) Python
-  IV.c) C
+--------------
+###IV.a) Bash
+###IV.b) Python
+###IV.c) C
 
 I) - Definition
 ===============
